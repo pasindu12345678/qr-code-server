@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"4863ea13987883527546fa5601d920e4","lockfileHash":"59c9f46d8a30123ca6816d380fccae22","guessedImports":["pino","qrcode-terminal","pastebin-js","fs-extra","@adiwajshing/baileys"],"guessedImportsHash":"505061ed8ecdba947fb52390a00505e7"}}}
